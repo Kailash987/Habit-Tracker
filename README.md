@@ -6,7 +6,7 @@ description: >
 getting_started:
   - step: "Clone the Repository"
     command: |
-      git clone https://github.com/Nidhi-Phophaliya/Habit-Tracker.git
+      git clone https://github.com/Kailash987/Habit-Tracker.git
       cd Habit-Tracker
   - step: "Install Dependencies"
     command: |
@@ -50,6 +50,6 @@ technologies_used:
   - Local Storage / MongoDB / SQLite (Database options)
 
 contact:
-  maintainer: "Nidhi Phophaliya"
-  github: "https://github.com/Nidhi-Phophaliya"
+  maintainer: "Kailash Puri"
+  github: "https://github.com/Kailash987"
   note: "Feel free to raise issues or contribute to improve the project."
